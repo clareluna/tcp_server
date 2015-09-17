@@ -21,5 +21,8 @@
     "chai": "^3.2.0",
     "chai-http": "^1.0.0",
     "mocha": "^2.3.2"
+  },
+  "dependencies": {
+    "dog-names": "^1.0.2"
   }
 }
